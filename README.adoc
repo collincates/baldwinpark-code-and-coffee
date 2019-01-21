@@ -1,7 +1,13 @@
 = baldwinpark-code-and-coffee
 :toc: macro
 
-image::./logo/code_coffeelogo.png[][Sunset,246,139]
+--
+
+image::https://img.shields.io/badge/License-MIT-yellow.svg[MIT License, link=https://opensource.org/licenses/MIT, float="left"]
+image:https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square[PRs Welcome, link=http://makeapullrequest.com]
+--
+
+image::./logo/code_coffeelogo.png[][logo,246,139, float="left"]
 
 toc::[]
 
